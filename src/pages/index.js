@@ -1,10 +1,13 @@
 import * as React from "react"
+import Layout from "../components/Layout"
 
 const IndexPage = () => {
   return (
-    <div>
-      <h1 className=" font-extrabold  ">this is a sentence</h1>
-    </div>
+    <Layout>
+      <div className="h-[100vh]">
+        hello
+      </div>
+    </Layout>
   )
 }
 

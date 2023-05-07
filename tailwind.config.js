@@ -11,6 +11,8 @@ module.exports = {
         "secondary-color": "var(--text-secondary)",
         "accent": "var(--accent)",
         "color-bg": "var(--background)",
+        "nav-bg": "var(--nav-bg)",
+        "nav-drawer-bg": "var(--nav-drawer-bg)",
       },
     },
   },

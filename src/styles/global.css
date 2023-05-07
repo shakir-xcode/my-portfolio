@@ -16,6 +16,8 @@
   --text-secondary: #96959b;
   --accent: #d246f1;
   --background: #111827;
+  --nav-bg: rgb(30, 41, 59);
+  --nav-drawer-bg: rgb(51, 65, 85);
 }
 
 html {

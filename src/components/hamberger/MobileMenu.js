@@ -9,7 +9,7 @@ function MobileMenu(props) {
     }
     return (
         <div className=''>
-            <div style={transitionStyle} className={`absolute bg-nav-drawer-bg w-[60%] sm:w-[40%] top-0 ${props.visible ? 'right-0' : '-right-[60%]'} md:hidden transition-all`}>
+            <div style={transitionStyle} className={`absolute z-10 bg-nav-drawer-bg w-[60%] sm:w-[40%] top-0 ${props.visible ? 'right-0' : '-right-[60%]'} md:hidden transition-all`}>
                 <ul className=' text-[1.2rem] font-semibold text-[var(--text-primary)] mt-24 '>
                     {menuItems.map((item, index) =>
                         <ul key={index} className='mt-2 py-4 px-6 hover:bg-slate-500 cursor-pointer'><Link className=''>{item}</Link></ul>

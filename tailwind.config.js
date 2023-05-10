@@ -12,6 +12,7 @@ module.exports = {
         "accent": "var(--accent)",
         "color-bg": "var(--background)",
         "nav-bg": "var(--nav-bg)",
+        "btn-hover": "var(--btn-hover)",
         "nav-drawer-bg": "var(--nav-drawer-bg)",
       },
     },

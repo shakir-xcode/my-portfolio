@@ -12,7 +12,7 @@ function HamMenuIcon({ toggleMenu }) {
 
 
     return (
-        <div className="absolute right-10 top-5  z-20 block md:hidden">
+        <div className="absolute right-5 top-5  z-20 block md:hidden">
             <button onClick={clicked} id="menu-btn" className="hamburger focus:outline-none">
                 <span className="hamburger-top"></span>
                 <span className="hamburger-middle"></span>

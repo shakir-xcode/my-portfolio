@@ -14,6 +14,7 @@ module.exports = {
         "nav-bg": "var(--nav-bg)",
         "btn-hover": "var(--btn-hover)",
         "nav-drawer-bg": "var(--nav-drawer-bg)",
+        "bg-accent": "var(--bg-accent)",
       },
     },
   },

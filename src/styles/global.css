@@ -18,9 +18,12 @@
   /* --accent: #d246f1; */
   --accent: #46f17f;
   --background: #111827;
+  /* replace */
   --nav-bg: rgb(30, 41, 59);
   --btn-hover: rgb(30, 41, 59, 0.4);
+  /* replace */
   --nav-drawer-bg: rgb(51, 65, 85);
+  --bg-accent: rgb(48, 59, 75);
 }
 
 html {
